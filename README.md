@@ -1,4 +1,4 @@
-### Hi there 👋, Giacomo Lamanna
+## Giacomo Lamanna
 #### I am Giacomo, a civil engineer and sotware developer
 For work I deal with the development of software for civil engineering, and 3D graphic programming. 
 
