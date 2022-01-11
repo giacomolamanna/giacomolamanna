@@ -3,6 +3,8 @@
 For work I deal with the development of software for civil engineering, and 3D graphic programming. 
 
 Skills: C#
+![kisspng-c-programming-basics-for-absolute-beginners-comp-5b106126687fa9 960696831527800102428](https://user-images.githubusercontent.com/97486319/148862579-48bc8c04-8b84-42c5-a087-3bb492782f41.jpg)
+
 
 - ⚡ I’m currently working on https://www.edilizianamirial.it/ 
 
