@@ -1,4 +1,6 @@
-# Giacomo Lamanna
+<img src='https://github.com/giacomolamanna/giacomolamanna/blob/main/cop.jpg' width='4000'>
+
+# 
 #### I am Giacomo, a civil engineer and sotware developer
 For work I deal with the development of software for civil engineering, and 3D graphic programming. 
 
