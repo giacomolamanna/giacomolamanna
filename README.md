@@ -2,8 +2,7 @@
 #### I am Giacomo, a civil engineer and sotware developer
 For work I deal with the development of software for civil engineering, and 3D graphic programming. 
 
-Skills: C#
-![kisspng-c-programming-basics-for-absolute-beginners-comp-5b106126687fa9 960696831527800102428](https://user-images.githubusercontent.com/97486319/148862579-48bc8c04-8b84-42c5-a087-3bb492782f41.jpg)
+<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="250"> <img src="https://static.wikia.nocookie.net/logopedia/images/6/62/Brand_Visual_Studio_Win_2019.svg/revision/latest/scale-to-width-down/250?cb=20191019024151" width="250">
 
 
 - ⚡ I’m currently working on https://www.edilizianamirial.it/ 
