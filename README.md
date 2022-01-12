@@ -11,5 +11,5 @@ I develop civil engineering software and 3D graphics algorithms.
 * Math
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/giacomolamanna) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/giacomo-lamanna//) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Giacomo-Lamanna)  
+[<img src='https://github.com/giacomolamanna/giacomolamanna/blob/main/github_icon.png' alt='github' height='40'>](https://github.com/giacomolamanna) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://github.com/giacomolamanna/giacomolamanna/blob/main/LinkedIn_icon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/giacomo-lamanna//) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://github.com/giacomolamanna/giacomolamanna/blob/main/ResearchGate_icon.png' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Giacomo-Lamanna)  
 
