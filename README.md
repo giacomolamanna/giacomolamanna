@@ -2,7 +2,7 @@
 
 # 
 #### I am Giacomo, a civil engineer and sotware developer
-For work I deal with the development of software for civil engineering, and 3D graphic programming. 
+I develop civil engineering software and 3D graphics algorithms.
 
 - ⚡ I’m currently working on https://www.edilizianamirial.it/ 
 
