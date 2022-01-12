@@ -12,5 +12,5 @@ I develop civil engineering software and 3D graphics algorithms.
 
 &nbsp;
 
-[<img src='https://github.com/giacomolamanna/giacomolamanna/blob/main/github_icon.png' alt='github' height='62'>](https://github.com/giacomolamanna) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://github.com/giacomolamanna/giacomolamanna/blob/main/LinkedIn_icon.png' alt='linkedin' height='61'>](https://www.linkedin.com/in/https://www.linkedin.com/in/giacomo-lamanna//) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://github.com/giacomolamanna/giacomolamanna/blob/main/ResearchGate_icon.png' alt='researchgate' height='60'>](https://www.researchgate.net/profile/Giacomo-Lamanna)  
+[<img src='https://github.com/giacomolamanna/giacomolamanna/blob/main/github_icon.png' alt='github' height='62'>](https://github.com/giacomolamanna) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://github.com/giacomolamanna/giacomolamanna/blob/main/LinkedIn_icon.png' alt='linkedin' height='61'>](https://www.linkedin.com/in/giacomo-lamanna/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://github.com/giacomolamanna/giacomolamanna/blob/main/ResearchGate_icon.png' alt='researchgate' height='60'>](https://www.researchgate.net/profile/Giacomo-Lamanna)  
 
