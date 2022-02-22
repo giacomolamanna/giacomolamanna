@@ -1,6 +1,4 @@
-<img src='https://github.com/giacomolamanna/giacomolamanna/blob/main/nomeGit.png' width='4000'>
 
-# 
 ### I am Giacomo, a civil engineer and sotware developer
 I develop civil engineering software and 3D graphics algorithms.
 
