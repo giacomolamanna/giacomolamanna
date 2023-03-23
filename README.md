@@ -7,6 +7,7 @@ I develop civil engineering software and 3D graphics algorithms.
 * C#
 * Math
 * 3D Graphics
+* BIM - geometrygym developement
 
 &nbsp;
 
