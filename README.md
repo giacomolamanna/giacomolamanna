@@ -1,4 +1,5 @@
-### Hello everyone, my name is Giacomo and I'm a civil engineer/developer. During the day, I develop desktop software in C#, and at night, I sleep.
+### Hello everyone!
+My name is Giacomo and I'm a civil engineer/developer. During the day, I develop desktop software in C#, and at night, I sleep.
 Currently, I'm studying some mathematics to write 3D graphics algorithms, and I'm also diving into BIM technology.
 
 &nbsp;
